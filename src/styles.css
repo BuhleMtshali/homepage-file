@@ -3,9 +3,15 @@ body {
   text-align: center;
   font-family: "Signika", sans-serif;
 }
-
+/*.container {
+  width: 720px;
+  height: 115px;
+  position: relative;
+  top: -2698px;
+  left: 5611px;
+}*/
 .welcome-header {
-  display: block;
+  /*display: block;*/
   margin: auto;
   width: 720px;
   height: 343px;
@@ -16,15 +22,8 @@ body {
   padding-top: 20px;
   margin-bottom: 0;
 }
-#activities {
-  display: block;
-  margin: 0 auto;
-  width: 720px;
-  height: 373px;
-  background: #219ebc;
-  position: relative;
-  top: 0px;
-}
+
 img {
   width: 100px;
+  border-radius: 3%;
 }
