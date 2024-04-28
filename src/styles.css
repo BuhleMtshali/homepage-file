@@ -1,4 +1,15 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: "Signika", sans-serif;
+}
+.welcome-header {
+  display: block;
+  margin: auto;
+  width: 720px;
+  height: 343px;
+  background-image: url("https://www.travelawaits.com/wp-content/uploads/2023/08/durban-city-hall-south-africa.jpg?resize=800%2C800");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
 }
